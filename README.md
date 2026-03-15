@@ -126,7 +126,7 @@ jupyter notebook hand_gesture.ipynb
 ## Author
 **Ganesh MP**
 Machine Learning Intern — Prodigy InfoTech
-- GitHub  : [ganeshmpsmg](https://github.com/ganesmpsmg/ganesmpsmg.github.io)
+- GitHub  : (https://github.com/ganesmpsmg/ganesmpsmg.github.io)
 
 
 ## License
